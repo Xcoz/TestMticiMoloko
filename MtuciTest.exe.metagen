@@ -1,0 +1,101 @@
+  MtuciTest.MyForm.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm1.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm2.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm3.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm4.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm5.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm61.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm611.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm612.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm613.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm614.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm615.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm62.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm63.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm64.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm65.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm66.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm67.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm68.resources - Embedded, ContainedInManifestFile, 
+  MtuciTest.MyForm69.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly MtuciTest, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly QuestLib, Version=1.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.ADOX.2.8, Version=2.8.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=None, flags=None
+Class MtuciTest.MyForm612: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm611: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm610: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm69: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm68: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm67: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm66: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm65: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm64: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm63: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm62: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm61: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm6: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm5: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm613: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MtuciTest.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
